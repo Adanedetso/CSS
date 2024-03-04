@@ -248,17 +248,7 @@ body.dark #moon{
     border-radius: 50px;
     background: var(--icons-bg);
 }
-.icon{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 40px;
-    height: 40px;
-    margin-block: 5px;
-    color: var(--second-color);
-    cursor: pointer;
-    z-index: 1;
-}
+
 .icon:nth-child(2){
     margin-top: 0;
 }
